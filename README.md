@@ -7,6 +7,7 @@
 - 🪄 I love learning new things
 - 🧘‍♀️ Fun fact: I'm a yoga practitioner.
 
+
 ![Gardene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gardene10&show_icons=true&theme=radical)
 
 
