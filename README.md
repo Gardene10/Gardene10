@@ -10,8 +10,7 @@
 
 
 ![Gardene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gardene10&show_icons=true&theme=radical)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gardene10&layout=donut)](https://github.com/Gardene10/github-readme-stats)
 <div style="display: inline_block"><br>
   <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
