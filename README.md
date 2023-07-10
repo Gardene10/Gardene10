@@ -1,5 +1,5 @@
 ### Hi I'm Gardene . 👋
-
+- 📍I'm from BRAZIL.
 - 👩‍🎓Analysis and Systems Development in progress
 - 🌱 I'm currently learning ReactJs and trying to become full stack.
 - 🤔I'm looking for help to improve my English and programming skills.
