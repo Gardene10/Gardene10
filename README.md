@@ -7,7 +7,7 @@
 - 🪄 I love learning new things
 - 🧘‍♀️ Fun fact: I'm a yoga practitioner.
 - 📍I'm from BRAZIL.
-- My latest project https://web-production-8f99e.up.railway.app/
+- 👩‍💻 My latest project -->  https://web-production-8f99e.up.railway.app/
 
 
 ![Gardene's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gardene10&show_icons=true&theme=radical)
