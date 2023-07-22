@@ -1,6 +1,6 @@
 ### Hi I'm Gardene . 👋
 
-- 👩‍🎓Analysis and Systems Development in progress
+- 👩‍🎓Analysis and Systems Development 
 - 🌱 I'm currently learning ReactJs and trying to become full stack.
 - 🤔I'm looking for help to improve my English and programming skills.
 - 📫 How to reach me: gardene.v.c@gmail.com
