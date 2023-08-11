@@ -2,7 +2,7 @@
 
 - 👩‍🎓Analysis and Systems Development 
 - 👩‍💻Software Developer.
-- 🌱Advanced English.
+- 🌬️fluent in english.
 - 📫 How to reach me: gardene.v.c@gmail.com
 - 🪄 I love learning new things
 - 🧘‍♀️ Fun fact: I'm a yoga practitioner.
