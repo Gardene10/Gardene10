@@ -3,7 +3,7 @@
 - 👩‍🎓Analysis and Systems Development 
 - 👩‍💻Software Developer.
 - 🌬️fluent in english.
-- 🌬️learn Italian.
+- 🌬️learning Italian.
 - 📫 How to reach me: gardene.v.c@gmail.com
 - 🪄 I love learning new things
 - 🧘‍♀️ Fun fact: I'm a yoga practitioner.
