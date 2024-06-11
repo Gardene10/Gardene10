@@ -25,4 +25,3 @@
   <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gardene10&bg_color=1a1e1c&color=3a8439&line=be2d92&point=5cb6bc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
