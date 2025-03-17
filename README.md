@@ -1,6 +1,7 @@
 ### Hi I'm Gardene . 👋
 
 Hi, I'm Gardene! 👋
+
 👩‍💻 Back-End Developer | Cloud Enthusiast
 👩‍🎓 Degree: Analysis and Systems Development
 🧑‍💻 Tech Stack: Node.js • TypeScript • Docker • Kubernetes • MongoDB • MySQL • AWS (learning)
