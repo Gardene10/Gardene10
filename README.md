@@ -1,13 +1,14 @@
 ### Hi I'm Gardene . 👋
 
-- 👩‍🎓Analysis and Systems Development 
-- 👩‍💻Software Developer.
-- 🗣️ fluent in english.
-- 🗣️ learning Italian.
-- 📫 How to reach me: gardene.v.c@gmail.com
-- 🪄 I love learning new things
-- 🧘‍♀️ Fun fact: I'm a yoga practitioner.
-- 📍I'm from BRAZIL.
+Hi, I'm Gardene! 👋
+👩‍💻 Back-End Developer | Cloud Enthusiast
+👩‍🎓 Degree: Analysis and Systems Development
+🧑‍💻 Tech Stack: Node.js • TypeScript • Docker • Kubernetes • MongoDB • MySQL • AWS (learning)
+🗣️ Languages: Fluent in English, learning Italian 🇮🇹
+🪄 About Me: I’m passionate about learning new technologies and building efficient solutions.
+🧘‍♀️ Fun Fact: I’m a yoga practitioner!
+📫 How to reach me: gardene.v.c@gmail.com
+📍 From: Brazil 🇧🇷
 
 
 
